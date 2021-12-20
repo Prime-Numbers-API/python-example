@@ -1,6 +1,6 @@
 import requests
 
-apiKey = "123"
+apiKey = "YOUR_API_KEY"
 base_url = "http://api.prime-numbers.io"
 number = "60309232769"
 minimum_combined_prime_gap = "200"
